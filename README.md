@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Zia
 
-<!--
-**Zia-ullah-khan/Zia-ullah-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Senior Software Engineer at CarboCredit with a passion for software engineering. I enjoy working on innovative projects and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: TransTracker 
+- 🌱 I’m currently learning: .NET, C#, C++
+- 💬 Ask me about: Python
+
+## 🛠 Skills & Technologies
+
+- **Programming Languages:** Python, JavaScript, C#, C++.
+- **Frameworks & Libraries:** React, .NET.
+- **Tools:** Git, Node, NPM, PIP, Docker, VSCode, Visual Studio.
+- **Databases:** MongoDB.
+- **Other:** Google Cloud.
+
+## 🖥️ Projects
+
+Here are a few projects I’ve been working on:
+
+### [TransTracker](https://github.com/Zia-ullah-khan/TransTracker)
+- TransTracker is an app that allows you to track where your transport is at and how far it is/how long it will take to arrive.
+- Technologies used: .NET MAUI, Google Cloud.
+
+## 📊 GitHub Stats
+
+![Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zia-ullah-khan&show_icons=true&theme=radical)
+
+⭐️ Feel free to check out my repositories and contribute if something interests you!
