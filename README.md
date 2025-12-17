@@ -1,34 +1,50 @@
-# Hi there! 👋 I'm Zia
+# Hi there, I'm Zia Ullah Khan! 👋
 
-Welcome to my GitHub profile! I'm a Senior Software Engineer at CarboCredit with a passion for software engineering. I enjoy working on innovative projects and learning new technologies.
+### 🎓 Computer Science Student | 🤖 AI Engineer | 🚀 VP of AI Club @ Montgomery College
 
-## 🚀 About Me
+I am a software engineer and AI researcher with a passion for building **autonomous systems**, **predictive models**, and **full-stack applications**. My goal is to build 10x products that solve complex problems using Deep Learning and robust software architecture.
 
-- 🔭 I’m currently working on: TransTracker and an autonomous self-driving AI system.
-- 🌱 I’m currently learning: .NET, C#, C++
-- 💬 Ask me about: Python
+- 🔭 I’m currently working on **Autonomous Driving Agents (ETS2LA)** and **Algorithmic Trading Bots**.
+- 🌱 I’m currently learning **Advanced Computer Vision** and **Distributed Systems**.
+- 👯 I’m looking to collaborate on **Open Source AI projects** and **Hackathons**.
+- 💬 Ask me about **Python, TensorFlow, React, and XRPL Blockchain**.
+- 📫 How to reach me: **khansokan1234@gmail.com**
 
-## 🛠 Skills & Technologies
+---
 
-- **Programming Languages:** Python, JavaScript, C#, C++.
-- **Frameworks & Libraries:** React, .NET.
-- **Tools:** Git, Node, NPM, PIP, Docker, VSCode, Visual Studio.
-- **Databases:** MongoDB.
-- **Other:** Google Cloud.
+## 📈 Featured Work: Market Volatility Forecasting
+*Hybrid Deep Learning Model (CNN + LSTM)*
 
-## 🖥️ Projects
+I designed a model to forecast stock market volatility across global indices. By fusing CNNs for feature extraction and LSTMs for time-series prediction, the model achieved an **RMSE of ~0.033**, successfully navigating the COVID-19 crash and recovery periods.
 
-Here are a few projects I’ve been working on:
+![Stock Prediction Graph](Figure_4%20(1).png)
 
-### [TransTracker](https://github.com/Zia-ullah-khan/TransTracker)
-- TransTracker is an app that allows you to track where your transport is at and how far it is/how long it will take to arrive.
-- Technologies used: .NET MAUI, Google Cloud.
+---
 
-### Autonomous Self-Driving AI System
-- Currently developing an AI system for autonomous driving with a focus on self-driving capabilities.
+## 🛠 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI & Cloud**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Web & Tools**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
-![Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zia-ullah-khan&show_icons=true&theme=radical)
-
-⭐️ Feel free to check out my repositories and contribute if something interests you!
+![](https://github-readme-stats.vercel.app/api?username=Zia-ullah-khan&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zia-ullah-khan&theme=dark&hide_border=true&layout=compact)
